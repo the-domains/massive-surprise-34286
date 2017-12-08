@@ -1,0 +1,82 @@
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.18823034060187638
+  lightness: 0.7810964852105826
+  saturation: 0.9630095886532217
+  rhythmicContrast: 0.05866568814963102
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: massive surprise
+layout_spectrum: 0.9277679971419275
+typography_spectrum: 0.8201415287330747
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46b6b111-0333-4ec7-8f11-2075aeff6b06.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/46b6b111-0333-4ec7-8f11-2075aeff6b06.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5467764-e3aa-451c-b4c1-c3abaab6680f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5467764-e3aa-451c-b4c1-c3abaab6680f.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Sales and Marketing for the enabled
+description: Inbound micro universe 2.0
+purpose:
+  - type: contact
+    url: 'mailto:ah@contentpepper.de'
+    label: Contact me
+author:
+  name: Alexander Hummelt
+  email: ah@contentpepper.de
+analytics:
+  twitter: ''
+github: true
