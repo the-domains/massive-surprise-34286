@@ -19,7 +19,32 @@ colors:
 name: massive surprise
 layout_spectrum: 0.9277679971419275
 typography_spectrum: 0.8201415287330747
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f18c440-2103-4111-8b32-15da08303ef3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f18c440-2103-4111-8b32-15da08303ef3.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: Sales and Marketing for the enabled
 description: Inbound micro universe 2.0
 purpose:
